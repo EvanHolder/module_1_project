@@ -10,7 +10,7 @@ This project will explore box office data in the attempt to help Microsoft under
 Contents:
 - student.py (jupyter notebook with all manipulation of data and visualizations to show insites)
 - presentation.pdf (pdf presentation)
-  A link to the audio file and full presentation on google drive is here: https://drive.google.com/file/d/1lge_8Wz1KRVgg8b7vY_a9c3F8foRb1Gk/view?usp=sharing
+  A link to the audio file and full presentation on google drive is here: https://drive.google.com/file/d/13DuaaUQEBCtXlUCl_XcmFcgw-qFIK6-u/view?usp=sharing
 - zippedData (folder which contains the data used for the project)
 
 
